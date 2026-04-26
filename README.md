@@ -24,6 +24,9 @@
 11. Basic Command Kubernetes
 ---
 
+<p align="center">
+  <img width="1600" height="712" alt="Kubernetes-originate" src="https://github.com/user-attachments/assets/c7b438f3-0e60-4901-9833-2a8b00d4c03d" />
+</p>
 
 # 1. Apa itu Kubernetes
 
